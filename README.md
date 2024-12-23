@@ -1,4 +1,4 @@
-Moved to Codeberg:
+**Moved to Codeberg:**
 
 Why NOT GitHub?
 - Don't want to do "personal contributions" when updating dotfiles, blog, or something else.
@@ -10,3 +10,5 @@ And why GitHub?
 - For meaningful projects
 - For collaboration
 - For social media
+
+https://thedtafixer.com
