@@ -11,7 +11,7 @@
 
 - 💻 Data, Infra, ML, Security, Ops
 
-- 🐧 Linux, FOSS, Terminal
+- ♥︎♥︎ Terminal ♥︎♥︎
 
 - 📫 How to reach me: **ovaldez@tuta.io**
 
